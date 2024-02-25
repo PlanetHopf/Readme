@@ -26,4 +26,4 @@ Please read [CONTRIBUTING.md](link-to-your-contributing-file) for details on my 
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](link-to-your-license-file) file for details
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/PlanetHopf/Readme/blob/main/LICENSE) file for details
